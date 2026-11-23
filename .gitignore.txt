@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+save_data.json
+high_score.txt
+.DS_Store
