@@ -18,6 +18,7 @@ Oyunçu kiber-şəbəkəni xaotik hərəkət edən kiber-viruslardan, `+10 Coin`
 ## İşə Salınma Qaydası
 1.Python 3.13.7 quraşdırın:
 https://www.python.org/ftp/python/3.13.17/python-3.13.17-amd64.exe
+
 2. Lazımi kitabxananı quraşdırın:
    ```bash
    pip install -r requirements.txt
