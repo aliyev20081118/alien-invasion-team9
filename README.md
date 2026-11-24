@@ -16,6 +16,9 @@ Oyunçu kiber-şəbəkəni xaotik hərəkət edən kiber-viruslardan, `+10 Coin`
 - **Q** və ya **Pəncərənin X düyməsi:** Yadda saxlayıb çıxmaq[cite: 1, 7]
 
 ## İşə Salınma Qaydası
-1. Lazımi kitabxananı quraşdırın:
+1.Python 3.13.7 quraşdırın:
+'''bash
+https://www.python.org/ftp/python/3.13.17/python-3.13.17-amd64.exe
+2. Lazımi kitabxananı quraşdırın:
    ```bash
    pip install -r requirements.txt
